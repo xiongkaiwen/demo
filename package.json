@@ -1,0 +1,24 @@
+{
+    "name":"koa2",
+    "version": "1.0.0",
+    "description": "this is a koa2 demo",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "async"
+    ],
+    "author": "kevin",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xiongkaiwen/koa2.git"
+    },
+    "dependencies": {
+        "koa":"2.0.0",
+        "koa-router": "7.0.0",
+        "koa-bodyparser": "3.2.0"
+    }
+}
